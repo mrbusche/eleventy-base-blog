@@ -1,7 +1,7 @@
 ---
 title: "I'm speaking at Prairie.Code() 2019!"
 date: 2019-05-29 20:06:57
-permalink: /2019/05/29/im-speaking-at-prairie-code-2019
+permalink: /2019/05/29/im-speaking-at-prairie-code-2019/
 author: mrbusche
 categories: conferences
 tags: ['conferences', 'prairie code']

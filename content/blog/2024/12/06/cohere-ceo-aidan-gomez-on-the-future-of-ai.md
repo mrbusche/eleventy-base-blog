@@ -1,7 +1,7 @@
 ---
 title: Links - No Priors Ep. 91 | With Cohere Co-Founder and CEO Aidan Gomez
 date: 2024-12-06 11:54:00
-permalink: /2024/12/06/cohere-ceo-aidan-gomez-on-the-future-of-ai
+permalink: /2024/12/06/cohere-ceo-aidan-gomez-on-the-future-of-ai/
 tags:
   - links
 ---

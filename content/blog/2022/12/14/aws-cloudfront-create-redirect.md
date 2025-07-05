@@ -1,7 +1,7 @@
 ---
 title: AWS CloudFront create redirect using CloudFormation
 date: 2022-12-14 21:09:30
-permalink: /2022/12/14/aws-cloudfront-create-redirect
+permalink: /2022/12/14/aws-cloudfront-create-redirect/
 tags:
   - aws
   - cloudfront

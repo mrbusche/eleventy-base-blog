@@ -1,7 +1,7 @@
 ---
 title: Using Spring JPA with tables names with spaces, periods, and other special characters
 date: 2023-10-05 22:09:30
-permalink: /2023/10/05/using-spring-jpa-with-table-names-with-spaces-periods-and-other-special-characters
+permalink: /2023/10/05/using-spring-jpa-with-table-names-with-spaces-periods-and-other-special-characters/
 tags:
   - spring
   - jpa

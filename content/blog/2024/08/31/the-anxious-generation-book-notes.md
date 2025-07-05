@@ -1,7 +1,7 @@
 ---
 title: The Anxious Generation Book  Notes
 date: 2024-08-31 16:09:30
-permalink: /2024/08/31/the-anxious-generation-book-notes
+permalink: /2024/08/31/the-anxious-generation-book-notes/
 tags:
   - book notes
   - book review

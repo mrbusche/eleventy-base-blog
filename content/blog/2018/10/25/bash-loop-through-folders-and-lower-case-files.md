@@ -1,7 +1,7 @@
 ---
 title: 'Bash loop through folders recursively and lower case files'
 date: 2018-10-25 09:35:57
-permalink: /2018/10/25/bash-loop-through-folders-and-lower-case-files
+permalink: /2018/10/25/bash-loop-through-folders-and-lower-case-files/
 tags:
   - bash
   - linux

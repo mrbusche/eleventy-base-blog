@@ -1,7 +1,7 @@
 ---
 title: Creating a downloadable csv file from an HTML table via java
 date: 2020-07-12 21:05:00
-permalink: /2020/07/12/creating-a-downloadable-csv-file-from-an-html-table-via-java
+permalink: /2020/07/12/creating-a-downloadable-csv-file-from-an-html-table-via-java/
 tags:
   - html
   - javascript

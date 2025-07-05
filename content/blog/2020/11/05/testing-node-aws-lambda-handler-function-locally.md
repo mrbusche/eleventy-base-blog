@@ -1,7 +1,7 @@
 ---
 title: Testing Node AWS Lambda handler function locally
 date: 2020-11-05 21:01:30
-permalink: /2020/11/05/testing-node-aws-lambda-handler-function-locally
+permalink: /2020/11/05/testing-node-aws-lambda-handler-function-locally/
 tags:
   - node
   - lambda

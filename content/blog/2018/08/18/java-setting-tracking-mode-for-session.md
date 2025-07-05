@@ -1,7 +1,7 @@
 ---
 title: 'Java setting tracking mode for session'
 date: 2018-08-18 08:06:57
-permalink: /2018/08/18/java-setting-tracking-mode-for-session
+permalink: /2018/08/18/java-setting-tracking-mode-for-session/
 tags: java
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Book Notes - Generative Deep Learning by David Foster
 date: 2024-11-23 11:41:30
-permalink: /2024/11/23/book-notes-generative-deep-learning-david-foster
+permalink: /2024/11/23/book-notes-generative-deep-learning-david-foster/
 tags:
   - booknotes
   - generative-ai

@@ -1,7 +1,7 @@
 ---
 title: 'SurveyMonkey CX API call'
 date: 2018-12-21 20:56:57
-permalink: /2018/12/21/survey-monkey-cx-api-call
+permalink: /2018/12/21/survey-monkey-cx-api-call/
 tags:
   - surveymonkey
 ---

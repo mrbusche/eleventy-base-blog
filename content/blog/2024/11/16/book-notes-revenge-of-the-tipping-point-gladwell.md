@@ -1,7 +1,7 @@
 ---
 title: Book Notes - Revenge of the Tipping Point by Malcolm Gladwell
 date: 2024-11-16 11:39:30
-permalink: /2024/11/16/book-notes-revenge-of-the-tipping-point-gladwell
+permalink: /2024/11/16/book-notes-revenge-of-the-tipping-point-gladwell/
 tags:
   - booknotes
   - generative-ai

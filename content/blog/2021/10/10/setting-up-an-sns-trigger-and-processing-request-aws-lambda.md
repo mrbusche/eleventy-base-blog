@@ -1,7 +1,7 @@
 ---
 title: Setting up an SNS trigger and processing the request in AWS Lambda
 date: 2021-10-10 15:05:30
-permalink: /2021/10/10/setting-up-an-sns-trigger-and-processing-request-aws-lambda
+permalink: /2021/10/10/setting-up-an-sns-trigger-and-processing-request-aws-lambda/
 tags:
   - lambda
   - sns

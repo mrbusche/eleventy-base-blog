@@ -1,7 +1,7 @@
 ---
 title: 'Detecting a Credit Card number in a field using JavaScript'
 date: 2019-02-11 21:14:00
-permalink: /2019/02/11/detecting-a-credit-card-number-in-javascript
+permalink: /2019/02/11/detecting-a-credit-card-number-in-javascript/
 tags:
   - javascript
   - PCI

@@ -1,7 +1,7 @@
 ---
 title: Links - Lucky Maverick | The Secret to Success - Mimic Evolution
 date: 2024-12-06 15:26:30
-permalink: /2024/12/06/jonathan-bales-mimic-evolution
+permalink: /2024/12/06/jonathan-bales-mimic-evolution/
 tags:
   - links
 ---

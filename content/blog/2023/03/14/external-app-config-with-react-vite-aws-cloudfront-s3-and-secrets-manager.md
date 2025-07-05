@@ -1,7 +1,7 @@
 ---
 title: External app config with React, Vite, AWS CloudFront, S3, and Secrets Manager
 date: 2023-03-14 21:09:30
-permalink: /2023/03/14/external-app-config-with-react-vite-aws-cloudfront-s3-and-secrets-manager
+permalink: /2023/03/14/external-app-config-with-react-vite-aws-cloudfront-s3-and-secrets-manager/
 tags:
   - aws
   - cloudfront

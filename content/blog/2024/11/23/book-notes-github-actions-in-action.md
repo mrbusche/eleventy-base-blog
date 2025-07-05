@@ -1,7 +1,7 @@
 ---
 title: Book Notes - GitHub Actions in Action
 date: 2024-11-23 11:42:30
-permalink: /2024/11/23/book-notes-github-actions-in-action
+permalink: /2024/11/23/book-notes-github-actions-in-action/
 tags:
   - booknotes
   - github-actions

@@ -1,7 +1,7 @@
 ---
 title: Book Notes - Software Engineering at Google
 date: 2024-11-23 11:59:30
-permalink: /2024/11/23/book-notes-software-engineering-at-google
+permalink: /2024/11/23/book-notes-software-engineering-at-google/
 tags:
   - booknotes
   - engineering

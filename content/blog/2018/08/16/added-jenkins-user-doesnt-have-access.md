@@ -1,7 +1,7 @@
 ---
 title: "User added in Jenkins doesn't have access"
 date: 2018-08-15 08:06:57
-permalink: /2018/08/16/added-jenkins-user-doesnt-have-access
+permalink: /2018/08/16/added-jenkins-user-doesnt-have-access/
 tags: jenkins
 ---
 

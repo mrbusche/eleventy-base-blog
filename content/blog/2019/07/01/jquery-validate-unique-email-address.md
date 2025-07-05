@@ -1,7 +1,7 @@
 ---
 title: 'jQuery Validate unique email addresses'
 date: 2019-07-01 20:06:57
-permalink: /2019/07/01/jquery-validate-unique-email-address
+permalink: /2019/07/01/jquery-validate-unique-email-address/
 author: mrbusche
 categories: jQuery
 tags: ['jQuery']

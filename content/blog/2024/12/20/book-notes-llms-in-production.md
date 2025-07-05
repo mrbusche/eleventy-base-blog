@@ -1,7 +1,7 @@
 ---
 title: Book Notes - LLMs in Production
 date: 2024-12-20 11:40:30
-permalink: /2024/12/20/book-notes-llms-in-production
+permalink: /2024/12/20/book-notes-llms-in-production/
 tags:
   - booknotes
   - generative-ai

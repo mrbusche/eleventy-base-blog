@@ -1,7 +1,7 @@
 ---
 title: Book Notes - Be Useful by Arnold Schwarzenegger
 date: 2024-11-23 11:39:30
-permalink: /2024/11/23/book-notes-be-useful-arnold-schwarzenegger
+permalink: /2024/11/23/book-notes-be-useful-arnold-schwarzenegger/
 tags:
   - booknotes
 ---

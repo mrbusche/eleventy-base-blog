@@ -1,7 +1,7 @@
 ---
 title: Amazon Nova foundation models
 date: 2024-12-06 14:54:00
-permalink: /2024/12/06/amazon-nova
+permalink: /2024/12/06/amazon-nova/
 tags:
   - aws
   - nova

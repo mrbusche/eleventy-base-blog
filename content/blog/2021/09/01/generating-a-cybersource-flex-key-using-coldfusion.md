@@ -1,7 +1,7 @@
 ---
 title: Generating a Cybersource Flex Key using ColdFusion
 date: 2021-09-01 15:01:30
-permalink: /2021/09/01/generating-a-cybersource-flex-key-using-coldfusion
+permalink: /2021/09/01/generating-a-cybersource-flex-key-using-coldfusion/
 tags:
   - cybersource
   - coldfusion

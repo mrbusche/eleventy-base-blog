@@ -1,7 +1,7 @@
 ---
 title: Book Notes - Open Talent by John Winsor
 date: 2024-11-23 11:45:30
-permalink: /2024/11/23/book-notes-open-talent-john-winsor
+permalink: /2024/11/23/book-notes-open-talent-john-winsor/
 tags:
   - booknotes
   - enterprise

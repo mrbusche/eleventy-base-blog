@@ -1,7 +1,7 @@
 ---
 title: Concourse push commit to pull request branch
 date: 2021-12-21 21:01:30
-permalink: /2021/12/21/concourse-push-commit-to-pull-request-branch
+permalink: /2021/12/21/concourse-push-commit-to-pull-request-branch/
 tags:
   - concourse
 ---

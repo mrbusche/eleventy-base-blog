@@ -1,7 +1,7 @@
 ---
 title: Using Kubernetes Secrets with Spring Boot
 date: 2020-11-07 21:01:30
-permalink: /2020/11/07/using-kubernetes-secrets-with-spring-boot
+permalink: /2020/11/07/using-kubernetes-secrets-with-spring-boot/
 tags:
   - kubernetes
   - spring boot

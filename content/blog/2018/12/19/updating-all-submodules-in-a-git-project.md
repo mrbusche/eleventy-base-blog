@@ -1,7 +1,7 @@
 ---
 title: 'Updating all sub modules in a git project'
 date: 2018-12-19 11:56:57
-permalink: /2018/12/19/updating-all-submodules-in-a-git-project
+permalink: /2018/12/19/updating-all-submodules-in-a-git-project/
 tags:
   - git
 ---

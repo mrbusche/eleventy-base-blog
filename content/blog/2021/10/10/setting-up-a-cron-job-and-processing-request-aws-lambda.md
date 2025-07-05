@@ -1,7 +1,7 @@
 ---
 title: Setting up a cron job and processing the request in AWS Lambda
 date: 2021-10-10 15:01:30
-permalink: /2021/10/10/setting-up-a-cron-job-and-processing-request-aws-lambda
+permalink: /2021/10/10/setting-up-a-cron-job-and-processing-request-aws-lambda/
 tags:
   - lambda
   - cron

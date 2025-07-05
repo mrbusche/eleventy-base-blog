@@ -1,7 +1,7 @@
 ---
 title: Converting a Roth IRA to a Traditional IRA at Vanguard
 date: 2021-02-26 16:01:30
-permalink: /2021/02/26/converting-a-roth-ira-to-traditional-ira-on-vanguard
+permalink: /2021/02/26/converting-a-roth-ira-to-traditional-ira-on-vanguard/
 tags:
   - vanguard
   - ira

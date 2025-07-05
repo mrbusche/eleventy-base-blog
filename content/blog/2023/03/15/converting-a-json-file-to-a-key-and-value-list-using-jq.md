@@ -1,7 +1,7 @@
 ---
 title: Converting a JSON file to a key and value list using jq
 date: 2023-03-14 22:09:30
-permalink: /2023/03/15/converting-a-json-file-to-a-key-and-value-list-using-jq
+permalink: /2023/03/15/converting-a-json-file-to-a-key-and-value-list-using-jq/
 tags:
   - jq
 ---
