@@ -1,7 +1,7 @@
 ---js
 const eleventyNavigation = {
 	key: "Projects",
-	order: 5
+	order: 3
 };
 ---
 
