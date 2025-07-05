@@ -1,8 +1,6 @@
 ---
 id: 71
 title: Converting roman numerals to numbers using Groovy/Grails
-redirect_from:
-  - /blog2/2015/01/18/converting-roman-numerals-to-numbers-using-groovygrails/
 date: 2015-01-18T03:43:36+00:00
 author: mrbusche
 permalink: /2015/01/18/converting-roman-numerals-to-numbers-using-groovygrails/

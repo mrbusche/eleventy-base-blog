@@ -1,8 +1,6 @@
 ---
 id: 150
 title: Showing all hidden elements on a page using jQuery
-redirect_from:
-  - /blog2/2015/07/10/showing-all-hidden-elements-on-a-page-using-jquery/
 date: 2015-07-10T23:31:49+00:00
 author: mrbusche
 permalink: /2015/07/10/showing-all-hidden-elements-on-a-page-using-jquery/

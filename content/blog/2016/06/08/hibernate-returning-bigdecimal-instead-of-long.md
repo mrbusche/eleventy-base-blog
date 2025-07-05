@@ -1,8 +1,6 @@
 ---
 id: 225
 title: Hibernate returning BigDecimal instead of Long
-redirect_from:
-  - /blog2/2016/06/08/hibernate-returning-bigdecimal-instead-of-long/
 date: 2016-06-08T14:07:03+00:00
 author: mrbusche
 permalink: /2016/06/08/hibernate-returning-bigdecimal-instead-of-long/

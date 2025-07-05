@@ -1,8 +1,6 @@
 ---
 id: 106
 title: Aligning monitors vertically in Windows
-redirect_from:
-  - /blog2/2015/05/24/aligning-monitors-vertically-in-windows/
 date: 2015-05-24T02:12:16+00:00
 author: mrbusche
 permalink: /2015/05/24/aligning-monitors-vertically-in-windows/

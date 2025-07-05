@@ -1,8 +1,6 @@
 ---
 id: 62
 title: Run groovy scripts in sublime text
-redirect_from:
-  - /blog2/2014/12/21/run-groovy-scripts-in-sublime-text/
 date: 2014-12-21T03:39:45+00:00
 author: mrbusche
 permalink: /2014/12/21/run-groovy-scripts-in-sublime-text/

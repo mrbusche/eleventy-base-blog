@@ -1,8 +1,6 @@
 ---
 id: 328
 title: Trusting SSL certs on Pivotal Cloud Foundry
-redirect_from:
-  - /blog2/2017/09/17/trusting-ssl-certs-on-pivotal-cloud-foundry/
 date: 2017-09-17T01:37:26+00:00
 author: mrbusche
 permalink: /2017/09/17/trusting-ssl-certs-on-pivotal-cloud-foundry/

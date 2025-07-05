@@ -1,8 +1,6 @@
 ---
 id: 73
 title: Using an if statement to conditionally run a target in Hudson
-redirect_from:
-  - /blog2/2015/03/23/using-an-if-statement-to-conditional-run-a-target-in-hudson/
 date: 2015-03-23T03:44:31+00:00
 author: mrbusche
 permalink: /2015/03/23/using-an-if-statement-to-conditional-run-a-target-in-hudson/

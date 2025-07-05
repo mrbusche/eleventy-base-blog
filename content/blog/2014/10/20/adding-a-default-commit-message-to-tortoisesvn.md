@@ -1,8 +1,6 @@
 ---
 id: 53
 title: Adding a default commit message to TortoiseSVN
-redirect_from:
-  - /blog2/2014/10/20/adding-a-default-commit-message-to-tortoisesvn/
 date: 2014-10-20T03:34:47+00:00
 author: mrbusche
 permalink: /2014/10/20/adding-a-default-commit-message-to-tortoisesvn/

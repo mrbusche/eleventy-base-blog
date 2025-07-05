@@ -1,8 +1,6 @@
 ---
 id: 161
 title: Creating a bookmarklet to log a user in
-redirect_from:
-  - /blog2/2015/07/15/creating-a-bookmarklet-to-log-a-user-in/
 date: 2015-07-15T02:33:14+00:00
 author: mrbusche
 permalink: /2015/07/15/creating-a-bookmarklet-to-log-a-user-in/

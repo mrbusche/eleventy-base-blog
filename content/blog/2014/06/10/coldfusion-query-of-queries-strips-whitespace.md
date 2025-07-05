@@ -1,8 +1,6 @@
 ---
 id: 43
 title: ColdFusion Query of Queries strips whitespace
-redirect_from:
-  - /blog2/2014/06/10/coldfusion-query-of-queries-strips-whitespace/
 date: 2014-06-10T03:27:58+00:00
 author: mrbusche
 permalink: /2014/06/10/coldfusion-query-of-queries-strips-whitespace/

@@ -1,8 +1,6 @@
 ---
 id: 84
 title: Registration for Iowa Code Camp is now open!
-redirect_from:
-  - /blog2/2015/04/23/registration-for-iowa-code-camp-is-now-open/
 date: 2015-04-23T03:50:39+00:00
 author: mrbusche
 permalink: /2015/04/23/registration-for-iowa-code-camp-is-now-open/

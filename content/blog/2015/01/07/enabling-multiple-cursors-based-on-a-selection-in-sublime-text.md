@@ -1,8 +1,6 @@
 ---
 id: 66
 title: Enabling multiple cursors based on a selection in Sublime Text
-redirect_from:
-  - /blog2/2015/01/07/enabling-multiple-cursors-based-on-a-selection-in-sublime-text/
 date: 2015-01-07T03:41:59+00:00
 author: mrbusche
 permalink: /2015/01/07/enabling-multiple-cursors-based-on-a-selection-in-sublime-text/

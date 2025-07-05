@@ -1,8 +1,6 @@
 ---
 id: 268
 title: ColdFusion and Apache POI modifying an existing file
-redirect_from:
-  - /blog2/2017/02/26/coldfusion-and-apache-poi-modifying-an-existing-file/
 date: 2017-02-26T16:46:17+00:00
 author: mrbusche
 permalink: /2017/02/26/coldfusion-and-apache-poi-modifying-an-existing-file/

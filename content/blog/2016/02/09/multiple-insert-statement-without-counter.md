@@ -1,8 +1,6 @@
 ---
 id: 193
 title: Multiple insert statement without counter
-redirect_from:
-  - /blog2/2016/02/09/multiple-insert-statement-without-counter/
 date: 2016-02-09T02:41:10+00:00
 author: mrbusche
 permalink: /2016/02/09/multiple-insert-statement-without-counter/

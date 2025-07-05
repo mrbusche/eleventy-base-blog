@@ -1,8 +1,6 @@
 ---
 id: 77
 title: Firefox Open Pop Ups as Tabs
-redirect_from:
-  - /blog2/2015/04/07/firefox-open-pop-ups-as-tabs/
 date: 2015-04-07T03:47:16+00:00
 author: mrbusche
 permalink: /2015/04/07/firefox-open-pop-ups-as-tabs/

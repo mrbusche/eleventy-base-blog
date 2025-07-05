@@ -1,8 +1,6 @@
 ---
 id: 31
 title: 'cf.Objective() Proposal - Getting started with Responsive Web Design'
-redirect_from:
-  - /blog2/2013/11/03/cfobjective-proposal-getting-started-with-responsive-web-design/
 date: 2013-11-03T09:34:15+00:00
 author: mrbusche
 permalink: /2013/11/03/cfobjective-proposal-getting-started-with-responsive-web-design/

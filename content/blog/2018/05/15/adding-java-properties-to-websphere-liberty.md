@@ -1,8 +1,6 @@
 ---
 id: 394
 title: Adding java properties to Websphere Liberty
-redirect_from:
-  - /blog2/2018/05/15/adding-java-properties-to-websphere-liberty/
 date: 2018-05-15T01:59:35+00:00
 author: mrbusche
 permalink: /2018/05/15/adding-java-properties-to-websphere-liberty/

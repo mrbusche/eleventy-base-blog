@@ -1,8 +1,6 @@
 ---
 id: 301
 title: Adding rows to an excel spreadsheet using apache poi
-redirect_from:
-  - /blog2/2017/07/02/adding-rows-to-an-excel-spreadsheet-using-apache-poi/
 date: 2017-07-02T02:35:19+00:00
 author: mrbusche
 permalink: /2017/07/02/adding-rows-to-an-excel-spreadsheet-using-apache-poi/

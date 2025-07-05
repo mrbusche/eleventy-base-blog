@@ -1,8 +1,6 @@
 ---
 id: 80
 title: Checking an HTML page for duplicate IDs using JavaScript
-redirect_from:
-  - /blog2/2015/04/13/checking-an-html-page-for-duplicate-ids-using-javascript/
 date: 2015-04-13T03:48:47+00:00
 author: mrbusche
 permalink: /2015/04/13/checking-an-html-page-for-duplicate-ids-using-javascript/

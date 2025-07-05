@@ -1,8 +1,6 @@
 ---
 id: 16
 title: Using ColdFusion to parse a list with empty values
-redirect_from:
-  - /blog2/2012/12/04/using-coldfusion-to-parse-a-list-with-empty-values/
 date: 2012-12-04T02:13:53+00:00
 author: mrbusche
 permalink: /2012/12/04/using-coldfusion-to-parse-a-list-with-empty-values/

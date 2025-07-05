@@ -1,8 +1,6 @@
 ---
 id: 239
 title: Using CSRF with Spring Security and AJAX calls
-redirect_from:
-  - /blog2/2016/08/06/using-csrf-with-spring-security-and-ajax-calls/
 date: 2016-08-06T01:10:28+00:00
 author: mrbusche
 permalink: /2016/08/06/using-csrf-with-spring-security-and-ajax-calls/
