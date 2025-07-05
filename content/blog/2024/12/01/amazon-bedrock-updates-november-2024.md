@@ -1,6 +1,7 @@
 ---
 title: Amazon Bedrock Updates for November 2024
 date: 2024-12-01 21:25:30
+permalink: /2024/12/01/amazon-bedrock-updates-november-2024
 tags:
   - aws
   - bedrock

@@ -1,6 +1,7 @@
 ---
 title: Links - Seth Godin Severe weather alert
 date: 2024-12-02 22:46:30
+permalink: /2024/12/02/seth-godin-severe-weather-alert
 tags:
   - links
 ---

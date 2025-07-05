@@ -1,6 +1,7 @@
 ---
 title: "I'm speaking at Iowa Technology Summit"
 date: 2018-08-15 16:06:57
+permalink: /2018/08/15/im-speaker-at-iowa-technology-summit
 author: mrbusche
 categories: conferences
 tags: ['conferences', 'iowa tech summit']

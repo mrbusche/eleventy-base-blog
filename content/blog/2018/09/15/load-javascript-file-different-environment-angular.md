@@ -1,6 +1,7 @@
 ---
 title: 'Angular Loading JavaScript file in different environments'
 date: 2018-09-15 09:43:57
+permalink: /2018/09/15/load-javascript-file-different-environment-angular
 tags: angular
 ---
 

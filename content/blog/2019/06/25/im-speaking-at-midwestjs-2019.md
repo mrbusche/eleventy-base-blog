@@ -1,6 +1,7 @@
 ---
 title: "I'm speaking at MidwestJS 2019!"
 date: 2019-06-25 20:06:57
+permalink: /2019/06/25/im-speaking-at-midwestjs-2019
 author: mrbusche
 categories: conferences
 tags: ['conferences', 'midwestjs']

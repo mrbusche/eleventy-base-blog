@@ -1,6 +1,7 @@
 ---
 title: 'Update LibreELEC to version 9 for Kodi 18'
 date: 2019-02-05 17:34:00
+permalink: /2019/02/05/upgrade-libreelec-to-version-9
 tags:
   - raspberry pi
 ---

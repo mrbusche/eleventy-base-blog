@@ -1,6 +1,7 @@
 ---
 title: Resolving glibc errors with python module
 date: 2023-10-18 22:09:30
+permalink: /2023/10/18/Resolving-glibc-errors-in-python-cryptography
 tags:
   - python
 ---

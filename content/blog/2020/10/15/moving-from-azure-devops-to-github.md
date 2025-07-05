@@ -1,6 +1,7 @@
 ---
 title: Moving repositories from Azure DevOps to Github
 date: 2020-10-15 21:05:00
+permalink: /2020/10/15/moving-from-azure-devops-to-github
 tags:
   - git
   - azure

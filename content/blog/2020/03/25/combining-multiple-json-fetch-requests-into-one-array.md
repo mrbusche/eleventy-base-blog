@@ -1,6 +1,7 @@
 ---
 title: 'Combining multiple json fetch requests into one array'
 date: 2020-03-25 21:04:30
+permalink: /2020/03/25/combining-multiple-json-fetch-requests-into-one-array
 tags:
   - json
   - fetch

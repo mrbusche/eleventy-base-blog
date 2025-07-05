@@ -1,6 +1,7 @@
 ---
 title: 'Finding md5 hash of file'
 date: 2018-09-30 10:05:57
+permalink: /2018/09/30/finding-md5-hash-of-file
 tags: md5
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: 'ColdFusion Removing duplicate values from a list'
 date: 2019-03-30 15:00:00
+permalink: /2019/03/30/coldfusion-removing-duplicate-values-from-a-list-java
 tags:
   - coldfusion
   - java

@@ -1,6 +1,7 @@
 ---
 title: 'Java settting domain on a session cookie'
 date: 2018-08-17 08:06:57
+permalink: /2018/08/17/java-setting-domain-on-a-session-cookie
 tags: java
 ---
 

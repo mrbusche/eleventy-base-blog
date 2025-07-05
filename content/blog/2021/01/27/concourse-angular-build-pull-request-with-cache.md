@@ -1,6 +1,7 @@
 ---
 title: Concourse build angular app on pull request with cache
 date: 2021-01-27 21:01:30
+permalink: /2021/01/27/concourse-angular-build-pull-request-with-cache
 tags:
   - concourse
   - angular

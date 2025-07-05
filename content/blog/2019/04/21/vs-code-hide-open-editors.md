@@ -1,6 +1,7 @@
 ---
 title: 'VS Code hide open editors pane'
 date: 2019-04-21 20:50:00
+permalink: /2019/04/21/vs-code-hide-open-editors
 tags:
   - vscode
 ---

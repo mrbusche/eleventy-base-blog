@@ -1,6 +1,7 @@
 ---
 title: "I'm speaking at DevOpsDays Portland 2019!"
 date: 2019-06-04 20:06:57
+permalink: /2019/06/04/im-speaking-at-dev-ops-days-portland-2019
 author: mrbusche
 categories: conferences
 tags: ['conferences', 'devopsdays']

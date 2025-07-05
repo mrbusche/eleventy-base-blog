@@ -1,6 +1,7 @@
 ---
 title: Building Secure and Reliable Systems Notes
 date: 2020-04-21 21:01:30
+permalink: /2020/04/21/building-secure-and-reliable-systems-notes
 tags:
   - sre
   - google

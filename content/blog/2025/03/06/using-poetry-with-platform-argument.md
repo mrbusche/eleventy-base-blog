@@ -1,6 +1,7 @@
 ---
 title: Using Poetry with platform argument
 date: 2025-03-06 16:54:00
+permalink: /2025/03/06/using-poetry-with-platform-argument
 tags:
   - python
   - poetry

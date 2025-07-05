@@ -1,6 +1,7 @@
 ---
 title: Sharing - RIP to RPA - The Rise of Intelligent Automation
 date: 2024-12-01 20:25:30
+permalink: /2024/12/01/rpa-intelligent-automation
 tags:
   - rpa
   - artificial-intelligence

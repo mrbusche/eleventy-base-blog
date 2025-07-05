@@ -1,6 +1,7 @@
 ---
 title: Book Notes - Generative AI in Action
 date: 2024-11-23 11:40:30
+permalink: /2024/11/23/book-notes-generative-ai-in-action
 tags:
   - booknotes
   - generative-ai
